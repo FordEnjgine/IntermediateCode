@@ -1,0 +1,15 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    
+    string yoMama = "MAMA";
+    char array2[4] = {'M','A','M','A'};
+    
+    yoMama.le    
+    
+    return 0;
+}
