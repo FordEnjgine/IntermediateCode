@@ -1,0 +1,20 @@
+Title
+Author
+Year Released
+Genre
+-1
+The Color Purple
+Alice Walker
+1982
+Epistolary
+-1
+The Road
+Cormac McCarthy
+2006
+Post Apocalyptic fiction
+-1
+To Kill a Mockingbird
+Harper Lee
+1960
+Southern Gothic
+-1
